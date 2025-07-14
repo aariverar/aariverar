@@ -27,11 +27,18 @@ Soy un apasionado del **aseguramiento de la calidad del software**, con foco en 
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UFT-Functional%20Testing-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Kobiton-Mobile%20Testing-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Kobiton-Cloud%20Devices-6A5ACD?style=for-the-badge&logo=devices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JMeter-Performance%20Testing-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LoadRunner-Enterprise%20Testing-007396?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/k6-Load%20Testing-7D64FF?style=for-the-badge&logo=k6&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Artillery-Performance%20CLI-F03C2E?style=for-the-badge"/>
+  
+
 </p>
 
 ---
