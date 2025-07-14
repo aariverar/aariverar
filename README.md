@@ -67,9 +67,9 @@ Soy un apasionado del **aseguramiento de la calidad del software**, con foco en 
 
 ## 📫 ¿Cómo contactarme?
 
-- ✉️ **Correo**: jhonnyqa@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/TU-LINKEDIN/)
-- 🧪 [Portafolio QA](https://github.com/TU_USUARIO)
+- ✉️ **Correo**: aalexriverar@gmail.com 
+- 💼 [LinkedIn](https://www.linkedin.com/in/TU-LINKEDIN/](https://www.linkedin.com/in/abraham-rivera-rivadeneyra-aa461873/)
+- 🧪 [Portafolio QA](https://github.com/TU_USUARIO](https://automatizacion.netlify.app/)
 
 ---
 
