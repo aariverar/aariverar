@@ -69,7 +69,7 @@ Soy un apasionado del **aseguramiento de la calidad del software**, con foco en 
 
 - ✉️ **Correo**: aalexriverar@gmail.com 
 - 💼 [LinkedIn]: https://www.linkedin.com/in/abraham-rivera-rivadeneyra-aa461873/
-- 🧪 [Portafolio QA]: https://github.com/TU_USUARIO](https://automatizacion.netlify.app/
+- 🧪 [Portafolio QA]: https://automatizacion.netlify.app/
 
 ---
 
